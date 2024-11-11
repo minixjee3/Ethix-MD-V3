@@ -27,5 +27,5 @@ We welcome contributions to enhance Ethix-MD! Feel free to fork the repo, make y
 # Support
 For questions, suggestions, or assistance, feel free to reach out to me on WhatsApp or join our channel for regular updates and tips.
 
-WhatsApp Contact
-WhatsApp Channel
+[WhatsApp Contact](wa.me/919142294671)
+[WhatsApp Channel](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
