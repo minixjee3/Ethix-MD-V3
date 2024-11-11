@@ -1,9 +1,9 @@
-# Ethix-MD WhatsApp Bot
-> **Developed by Sid from India**
+# Ethix-MD-V3 WhatsApp Bot
+> **Developed by Sid**
 
-Ethix-MD is a powerful and versatile WhatsApp bot that can be easily connected to any WhatsApp account via a unique pairing code. Built in JavaScript, this bot requires **no complex deployment process**. Users can get started with a single connection step, making it ideal for beginners and seasoned bot users alike.
+Ethix-MD-V3 is a powerful and versatile WhatsApp bot that can be easily connected to any WhatsApp account via a unique pairing code. Built in JavaScript, this bot requires **no complex deployment process**. Users can get started with a single connection step, making it ideal for beginners and seasoned bot users alike.
 
-![Ethix-MD Logo](https://files.catbox.moe/hg0xgo.jpg)
+![Ethix-MD-V3 Logo](https://files.catbox.moe/hg0xgo.jpg)
 
 ---
 
